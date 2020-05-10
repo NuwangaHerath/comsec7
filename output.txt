@@ -1,0 +1,12 @@
+tcp packet(test1) has accepted by network interface-2 of the firewall at 2020-05-10 20:39:35.569183
+udp packet(test3) has denied by network interface-2 of the  firewall at 2020-05-10 20:39:35.570181
+ip packet(test5) has accepted by network interface-2 of the firewall at 2020-05-10 20:39:35.571178
+tcp packet(test7) has accepted by network interface-2 of the firewall at 2020-05-10 20:39:35.571178
+tcp packet(test8) has accepted by network interface-2 of the firewall at 2020-05-10 20:39:35.574172
+udp packet(test9) has accepted by network interface-2 of the firewall at 2020-05-10 20:39:35.576166
+udp packet(test10) has accepted by network interface-2 of the firewall at 2020-05-10 20:39:35.578169
+ip packet(test11) has denied by network interface-2 of the  firewall at 2020-05-10 20:39:35.582167
+tcp packet(test2) has accepted by network interface-2 of the firewall at 2020-05-10 20:39:35.604101
+udp packet(test4) has denied by network interface-2 of the  firewall at 2020-05-10 20:39:35.605088
+ip packet(test6) has accepted by network interface-2 of the firewall at 2020-05-10 20:39:35.606085
+ip packet(test12) has denied by network interface-2 of the  firewall at 2020-05-10 20:39:35.607083
